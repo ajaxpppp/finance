@@ -1,0 +1,28 @@
+2024.05.21-12:02:17.970[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2024.05.21-12:02:18.058[33m warn [39m [caliper] [bind] 	Working directory for binding not specified. Using "/home/shenjun/Desktop/tools/benchmarks"
+2024.05.21-12:02:18.060[32m info [39m [caliper] [bind] 	Binding working directory: /home/shenjun/Desktop/tools/benchmarks
+2024.05.21-12:02:18.060[32m info [39m [caliper] [bind] 	Calling npm with: install web3@0.20.7
+2024.05.21-12:02:25.165[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2024.05.21-12:03:30.564[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2024.05.21-12:03:30.656[33m warn [39m [caliper] [bind] 	Working directory for binding not specified. Using "/home/shenjun/Desktop/tools/benchmarks"
+2024.05.21-12:03:30.658[32m info [39m [caliper] [bind] 	Binding working directory: /home/shenjun/Desktop/tools/benchmarks
+2024.05.21-12:03:30.658[32m info [39m [caliper] [bind] 	Calling npm with: install web3@0.20.7
+2024.05.21-12:03:34.914[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2024.05.21-12:05:33.003[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2024.05.21-12:05:33.094[33m warn [39m [caliper] [bind] 	Working directory for binding not specified. Using "/home/shenjun/Desktop/tools/benchmarks"
+2024.05.21-12:05:33.095[32m info [39m [caliper] [bind] 	Binding working directory: /home/shenjun/Desktop/tools/benchmarks
+2024.05.21-12:05:33.095[32m info [39m [caliper] [bind] 	Calling npm with: install web3@0.20.7
+2024.05.21-12:05:45.756[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2024.05.21-13:07:23.783[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2024.05.21-13:07:23.874[33m warn [39m [caliper] [bind] 	Working directory for binding not specified. Using "/home/shenjun/Desktop/tools/benchmarks"
+2024.05.21-13:07:23.876[32m info [39m [caliper] [bind] 	Binding working directory: /home/shenjun/Desktop/tools/benchmarks
+2024.05.21-13:07:23.876[32m info [39m [caliper] [bind] 	Calling npm with: install web3@0.20.7
+2024.05.21-13:07:36.132[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2024.05.21-13:09:12.553[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2024.05.21-13:09:12.631[33m warn [39m [caliper] [bind] 	Working directory for binding not specified. Using "/home/shenjun/Desktop/tools/benchmarks"
+2024.05.21-13:09:12.632[32m info [39m [caliper] [bind] 	Binding working directory: /home/shenjun/Desktop/tools/benchmarks
+2024.05.21-13:09:12.633[32m info [39m [caliper] [bind] 	Calling npm with: install web3@0.20.7
+2024.05.21-15:19:36.973[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2024.05.21-15:19:37.061[33m warn [39m [caliper] [bind] 	Working directory for binding not specified. Using "/home/shenjun/Desktop/tools/benchmarks"
+2024.05.21-15:19:37.062[32m info [39m [caliper] [bind] 	Binding working directory: /home/shenjun/Desktop/tools/benchmarks
+2024.05.21-15:19:37.062[32m info [39m [caliper] [bind] 	Calling npm with: install web3@0.20.7
