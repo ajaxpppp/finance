@@ -16,4 +16,3 @@ contract("DelegateCall", async (accounts) => {
     })
 
 })
-

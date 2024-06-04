@@ -12,7 +12,7 @@
  * --------------------------------
  *
  * Do you have a complex application that requires lots of transactions to deploy?
- * Use this approach to make deployment a breeze 🏖️:
+ * Use this approach to make deployment a breeze 🏖�?
  *
  * Infura deployment needs a wallet provider (like @truffle/hdwallet-provider)
  * to sign transactions before they're sent to a remote public node.
@@ -64,14 +64,13 @@ module.exports = {
     // tab if you use this network and you must also set the `host`, `port` and `network_id`
     // options below to some value.
     //
-    // development: {
-    //  host: "127.0.0.1",     // Localhost (default: none)
-    //  port: 8545,            // Standard Ethereum port (default: none)
-    //  network_id: "*",       // Any network (default: none)
-    // },
+     development: {
+      host: "127.0.0.1",     // Localhost (default: none)
+      port: 7545,            // Standard Ethereum port (default: none)
+      network_id: "*",       // Any network (default: none)
+     },
     //
-    // An additional network, but with some advanced options…
-    // advanced: {
+    // An additional network, but with some advanced options�?    // advanced: {
     //   port: 8777,             // Custom port
     //   network_id: 1342,       // Custom network
     //   gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -106,7 +105,7 @@ module.exports = {
   // Configure your compilers
   compilers: {
     solc: {
-      version: "0.8.21",      // Fetch exact version from solc-bin (default: truffle's version)
+      version: "0.8.11",      // Fetch exact version from solc-bin (default: truffle's version)
       // docker: true,        // Use "0.5.1" you've installed locally with docker (default: false)
       // settings: {          // See the solidity docs for advice about optimization and evmVersion
       //  optimizer: {
